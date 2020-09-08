@@ -1,0 +1,7 @@
+bootJar {
+    mainClassName = 'ru.ashirobokov.pay.user.init.PayUserInitApplication'
+}
+
+dependencies {
+    compile group: 'org.springframework.boot', name: 'spring-boot-starter-webflux', version: '2.2.4.RELEASE'
+}

@@ -1,0 +1,13 @@
+rootProject.name = 'bank-online'
+
+include 'pay-save-card-payment'
+include 'pay-save-account-payment'
+include 'pay-save-mobile-payment'
+include 'pay-verify-balance'
+include 'pay-make-payment'
+include 'pay-notify-canceled'
+include 'pay-notify-upaid'
+include 'pay-start-process'
+include 'pay-user-init'
+include 'pay-user-init'
+
